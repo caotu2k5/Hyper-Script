@@ -6,7 +6,6 @@ clear
 echo "Đang tiếp tục cài đặt Hyper-Script" 
 cd && cd && cd $HOME && cd /data/data/com.termux/files/usr/etc/ && pkg install wget -y && wget https://github.com/caotu2k5/Hyper-Script/raw/main/text1 && mv text1 motd
 clear
-echo "Đã cài đặt thành công, vui lòng khởi động lại Termux" 
-exit
+echo "Đã cài đặt thành công, vui lòng khởi động lại Termux" && exit && exit
 
 
