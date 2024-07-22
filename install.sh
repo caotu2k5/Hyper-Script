@@ -1,3 +1,6 @@
+exit
+exit
+exit
 clear
 echo "Đang cài đặt Hyper-Script"
 apt update && apt upgrade -y
