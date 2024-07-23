@@ -1,3 +1,4 @@
+echo "Đang tạm đóng, vui lòng quay lại vào ngày 29/07"
 exit
 exit
 exit
